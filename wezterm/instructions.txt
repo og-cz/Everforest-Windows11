@@ -1,0 +1,4 @@
+To style wezterm:
+
+Just copy and paste the file on this location:
+C:\Users\{YOUR USERNAME}\ {PASTE FILE HERE}

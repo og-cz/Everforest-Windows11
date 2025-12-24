@@ -8,3 +8,5 @@ Install Winfetch:
 Set-ExecutionPolicy Bypass -Scope CurrentUser
 
 Install Style Config:
+Copy winfetch folder then paste on C:\Users\{YOUR USERNAME}\.config\{PASTE HERE}
+
