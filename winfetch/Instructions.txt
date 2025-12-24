@@ -1,0 +1,10 @@
+Install Winfetch:
+
+1. Copy Tools folder then paste on C:\ drive
+
+2. Go to paste this "C:\Tools\Winfetch" text on PATH variable under user variables
+
+3. Run this script in terminal: 
+Set-ExecutionPolicy Bypass -Scope CurrentUser
+
+Install Style Config:

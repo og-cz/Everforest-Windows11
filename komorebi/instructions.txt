@@ -1,0 +1,8 @@
+To Style komorebi:
+
+1. Copy my komorebi file
+
+2. Paste on this location:
+C:\Users\{YOUR USERNAME}\paste here
+
+3. click replace and paste

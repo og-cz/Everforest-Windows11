@@ -1,0 +1,6 @@
+To style YASB:
+
+1. Copy the 2 files: config and style
+
+2. Paste and replace on this location:
+C:\Users\{YOUR USERNAME}\.config\yasb

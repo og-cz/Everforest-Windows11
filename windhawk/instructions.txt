@@ -1,0 +1,7 @@
+install the list of Windhawk Mods:
+
+- Windows 11 Notification Center Styler
+- Winodws 11 Start Menu Styler
+- Windows 11 Taskbar Styler
+
+For each of this mods go to Details -> Advanced -> Paste inside the Mod Settings

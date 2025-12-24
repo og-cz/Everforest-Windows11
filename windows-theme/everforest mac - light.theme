@@ -1,0 +1,63 @@
+; Copyright © niivu DESIGNS.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_everforest mac - light
+DisplayName=everforest mac - light
+SetLogonBackground=0
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\Resources\Themes\everforest\Icons\pc.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue==%SystemRoot%\Resources\Themes\everforest\Icons\user.ico
+
+[Control Panel\Cursors]
+AppStarting=%ResourceDir%\Themes\everforest\cursors\dark\busy.ani
+Arrow=%ResourceDir%\Themes\everforest\cursors\dark\arrow.cur
+Crosshair=%ResourceDir%\Themes\everforest\cursors\dark\cross.cur
+Hand=%ResourceDir%\Themes\everforest\cursors\dark\link.cur
+Help=%ResourceDir%\Themes\everforest\cursors\dark\helpsel.cur
+IBeam=%ResourceDir%\Themes\everforest\cursors\dark\ibeam.cur
+No=%ResourceDir%\Themes\everforest\cursors\dark\unavail.cur
+NWPen=%ResourceDir%\Themes\everforest\cursors\dark\pen.cur
+SizeAll=%ResourceDir%\Themes\everforest\cursors\dark\move.cur
+SizeNESW=%ResourceDir%\Themes\everforest\cursors\dark\nesw.cur
+SizeNS=%ResourceDir%\Themes\everforest\cursors\dark\ns.cur
+SizeNWSE=%ResourceDir%\Themes\everforest\cursors\dark\nwse.cur
+SizeWE=%ResourceDir%\Themes\everforest\cursors\dark\ew.cur
+UpArrow=%ResourceDir%\Themes\everforest\cursors\dark\up.cur
+Wait=%ResourceDir%\Themes\everforest\cursors\dark\wait.ani
+DefaultValue=Windows Default
+DefaultValue.MUI=@main.cpl,-1020
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\Resources\Themes\everforest\Previews\everforest mac - light.png
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%ResourceDir%\Themes\everforest\everforest mac.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XFFA7C080
+AppMode=Light
+SystemMode=Dark
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=@%SystemRoot%\System32\mmres.dll,-800
+
+[Slideshow]
+Interval=1000000
+Shuffle=1
+ImagesRootPath=%SystemRoot%\Resources\Themes\everforest\Wallpapers\

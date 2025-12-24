@@ -1,0 +1,13 @@
+1. Install Spotify
+
+2. Install Spicetify:
+https://spicetify.app/docs/advanced-usage/installation/
+
+3. Paste the style folder on :
+C:\Users\{USERNAME}\{pastehere}
+
+4. Run in terminal:
+spicetify config current_theme Everforest
+
+5. Run in the same terminal again to apply:
+spicetify apply
